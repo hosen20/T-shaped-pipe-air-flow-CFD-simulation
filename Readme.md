@@ -15,7 +15,7 @@ This project was made by following this course: https://innovationspace.ansys.co
 ##### General Steps of CFD Simulation in Ansys:
 1. Geometry Creation or Import
 
--Use Ansys DesignModeler or SpaceClaim to build or import the fluid domain.
+   - Use Ansys DesignModeler or SpaceClaim to build or import the fluid domain.
 
 2. Meshing
 
