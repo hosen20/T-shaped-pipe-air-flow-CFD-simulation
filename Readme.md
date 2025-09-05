@@ -19,46 +19,46 @@ This project was made by following this course: https://innovationspace.ansys.co
 
 2. Meshing
 
--Generate a computational mesh using Ansys Meshing.
+   - Generate a computational mesh using Ansys Meshing.
 
--Refine mesh in critical regions (e.g. boundary layers, inlets/outlets).
+   - Refine mesh in critical regions (e.g. boundary layers, inlets/outlets).
 
 3. Physics Setup
 
--Choose the solver (pressure-based or density-based for example).
+   - Choose the solver (pressure-based or density-based for example).
 
--Define fluid properties (e.g. viscosity, density).
+   - Define fluid properties (e.g. viscosity, density).
 
--Select turbulence models, multiphase models, heat transfer, etc.
+   - Select turbulence models, multiphase models, heat transfer, etc.
 
 4. Boundary Conditions
 
--Apply inlet/outlet conditions, wall boundaries, symmetry, etc.
+   - Apply inlet/outlet conditions, wall boundaries, symmetry, etc.
 
--Set initial conditions if transient simulation is used.
+   - Set initial conditions if transient simulation is used.
 
 5. Solution Setup
 
--Choose steady or transient solver.
+   - Choose steady or transient solver.
 
--Set discretization schemes and convergence criteria.
+   - Set discretization schemes and convergence criteria.
 
 6. Initialize the solution.
 
--Run the Simulation
+   - Run the Simulation
 
--Monitor residuals and physical quantities (e.g. velocity, pressure).
+   - Monitor residuals and physical quantities (e.g. velocity, pressure).
 
--Adjust under-relaxation factors or time steps if needed.
+   - Adjust under-relaxation factors or time steps if needed.
 
 7. Post-Processing
 
--Use Fluent’s built-in tools to visualize results.
+   - Use Fluent’s built-in tools to visualize results.
 
--Generate contour plots, streamlines, vector fields, and data reports.
+   - Generate contour plots, streamlines, vector fields, and data reports.
 
 8. Validation and Refinement
 
--Compare results with experimental or analytical data.
+   - Compare results with experimental or analytical data.
 
--Refine mesh or adjust models as needed for accuracy.
+   - Refine mesh or adjust models as needed for accuracy.
