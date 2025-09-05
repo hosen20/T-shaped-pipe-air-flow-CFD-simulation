@@ -1,11 +1,13 @@
 ### Air flow simulation using Ansys Fluent
 Using Ansys Student 2025 R2
 
-This repository contains the following structure:
+Objective: Two inlets allow heated air to enter, one inlet having a heated air of 55 degrees and another of 25 degrees with different velocities. The outlet allows air to go out and we should observe a good mix of both of these air inlets by having a uniform pressure on all points of the outlet.
+
+This repository contains the following:
 1. images folder: contains the solution images, like plots, calculated values and mesh plotting.
 2. Readme.md: contains further information about CFD and the project being implemented.
 3. pipe-tee-r20mm-solid-mesh-shiri.msh.h5: The pipe-tee-r20mm-solid.msh.h5 file after applying mesh.
-4. pipe-tee-r20mm-solid-solution-shiri.msh.h5: The final solution after mesh. By other words the results of the solver on the meshed file.
+4. pipe-tee-r20mm-solid-solution-shiri.msh.h5: The final solution after mesh. By other words the results of the solver on the pipe-tee-r20mm-solid-mesh-shiri.msh.h5 file.
 5. pipe-tee-r20mm-solid.msh.h5: The original file of the T shaped pipe geometry without mesh and without the solution.
 
 This project was made by following this course: https://innovationspace.ansys.com/product/intro-to-ansys-fluent/
